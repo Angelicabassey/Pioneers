@@ -1,7 +1,8 @@
+'use client'
 import Headerimg from "./headerimg";
 import Heroimg from "./heroimg";
 
-export default function hero() {
+export default function Hero() {
     return (
         <main className="bg-herobg">
             <div className="flex items-center justify-around px-12 py-16 flex-wrap">

@@ -1,7 +1,7 @@
   
   import Image from 'next/image'
 
-  export default function Heroimg() {
+  export default function Hero() {
     return (
      <div className='flex- justify-center- items-center- h-screen-'>
        <Image
