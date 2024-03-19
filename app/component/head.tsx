@@ -1,7 +1,7 @@
 'use client'
 import Headerimg from "./headerimg";
 
-export default function Head() {
+export default function Header() {
     return (
         <main>
             hello

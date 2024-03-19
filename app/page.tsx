@@ -1,6 +1,6 @@
 'use client'
 import Head from "./component/head";
-import Hero from "./component/hero";
+import Hero from "./component/firstpage";
 import Service from "./component/service";
 
 export default function Home() {
