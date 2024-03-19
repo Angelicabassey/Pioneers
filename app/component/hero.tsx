@@ -1,16 +1,5 @@
-// import Image from "next/image";
-
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons'
-
 import Headerimg from "./headerimg";
 import Heroimg from "./heroimg";
-
-// import Sideimg from "./component/sideimg";
-// import Service from "./component/service";
-// import Testimonial from "./component/testimonial";
-// import Platform from "./component/platform";
-// import Footer from "./component/footer";
 
 export default function Home() {
   return (

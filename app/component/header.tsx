@@ -1,11 +1,10 @@
-'use client'
 import Image from 'next/image';
 import Headerimg from "./headerimg";
 
 export default function Header() {
     return (
-        <main className="w-full fixed- top-0 z-40">
-                <div className="border shadow flex justify-around items-center  px-4 w-full">
+        <main className="w-full">
+                <div className="border shadow flex justify-around items-center px-4 w-full">
                     <div>
                         <a href="#">
 
@@ -27,7 +26,7 @@ export default function Header() {
                     <div className="bg-main px-6 py-2 rounded-md">
                         <a className='flex items-center gap-2' href="#">
                             <p className='rounded-md font-normal xl:text-base sm:text-sm text-white'>Let's Earn</p>
-                            <Headerimg />
+                            <Headerimg/>
                         </a>
                     </div>
                 </div>
