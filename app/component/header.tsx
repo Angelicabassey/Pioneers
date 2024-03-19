@@ -7,7 +7,6 @@ export default function Header() {
                 <div className="border shadow flex justify-around items-center px-4 w-full">
                     <div>
                         <a href="#">
-
                             <Image
                                 src="/logo.png"
                                 alt="Next.js Logo"
@@ -15,7 +14,6 @@ export default function Header() {
                                 height={150}
                             />
                         </a>
-
                     </div>
                     <div className="flex items-center gap-20">
                         <p className='hover:text-main'><a className='text-main' href="">Home</a></p>

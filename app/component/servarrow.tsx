@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Servarrow() {
   return (
-   <div className='flex- justify-center- items-center- h-screen-'>
+   <div className=''>
      <Image
       src="/Group 194 (1).png"
       width={40}

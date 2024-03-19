@@ -3,7 +3,7 @@
 
   export default function Serviceup() {
     return (
-     <div className='flex- justify-center- items-center- h-screen-'>
+     <div className=''>
        <Image
         src="/Group 194 (3).png"
         width={40}

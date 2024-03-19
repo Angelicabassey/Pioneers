@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Simg() {
     return (
-        <div className='flex- justify-center- items-center- h-screen-'>
+        <div>
             <Image
                 src="/cuate 2.png"
                 width={180}

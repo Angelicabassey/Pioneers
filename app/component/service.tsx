@@ -1,9 +1,7 @@
-import Image from 'next/image';
+'use client'
 import Serviceup from "./serviceup";
 import Simg from "./simg";
 import Servarrow from "./servarrow";
-
-
 
 export default function Service() {
     return (
